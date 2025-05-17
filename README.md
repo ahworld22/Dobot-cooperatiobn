@@ -1,4 +1,7 @@
 Dobot CR5的人机协作开发
+
 DobotSDK_Python中是dobot的官方sdk
+
 pyKinectAzure是kinect相机的相关库文件
+
 main_collection.py是最终的运行文件
