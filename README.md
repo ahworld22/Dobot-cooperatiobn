@@ -1,7 +1,15 @@
 Dobot CR5的人机协作开发
 
-DobotSDK_Python中是dobot的官方sdk
+DobotSDK_Python中是dobot的官方sdk，需要去官网下载
 
-pyKinectAzure是kinect相机的相关库文件
+pyKinectAzure是kinect相机的相关库文件，需要配置azure kinect官方sdk库实现
 
-main_collection.py是最终的运行文件
+main_collection.py是语音识别和手势识别的运行文件
+
+main_mp_only.py是手势识别的运行文件
+
+main_audio_only.py是语音识别的运行文件
+
+所需要的库在requirements.txt中展示
+
+
